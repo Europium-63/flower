@@ -1,0 +1,11 @@
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\bin\Debug\Karesz.exe.config
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\bin\Debug\Karesz.exe
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\bin\Debug\Karesz.pdb
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.csproj.AssemblyReference.cache
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.Form1.resources
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.Properties.Resources.resources
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.csproj.GenerateResource.cache
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.csproj.CoreCompileInputs.cache
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.exe
+C:\Users\Zenzerov_Maxim\Downloads\Karesz_unatkozik-main(1)\Karesz_unatkozik-main\obj\x86\Debug\Karesz.pdb
